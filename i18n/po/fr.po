@@ -52,7 +52,7 @@ msgstr "  -v,--verbose\t\taffichez d'avantage de resultats concernant les action
 
 #: src/help.hpp:112
 msgid "  -m,--manual\t\topen the manual page for vendr"
-msgstr "  -m,--manual\t\touvrirla page de manuel de Vendr"
+msgstr "  -m,--manual\t\touvrir la page de manuel de Vendr"
 
 #: src/help.hpp:113
 msgid "  -V,--version\t\tdisplay version info"
